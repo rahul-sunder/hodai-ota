@@ -1,7 +1,7 @@
 {
   "updates_per_day": 2,
   "daily_schedule": [
-    {"h": 8,  "m": 0,  "mode": "A"},
+    {"h": 8,  "m": 32,  "mode": "A"},
     {"h": 12, "m": 30, "mode": "A"},
     {"h": 18, "m": 28, "mode": "A"},
     {"h": 21, "m": 15, "mode": "A"}
