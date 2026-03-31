@@ -1,7 +1,7 @@
 {
   "update_schedule": [
     {"h": 1, "m": 38},
-    {"h": 8, "m": 00}
+    {"h": 8, "m": 0}
   ],
   "daily_schedule": [
     {"h": 8,  "m": 5, "mode": "A", "int": 300000},
